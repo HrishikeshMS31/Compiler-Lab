@@ -1,0 +1,9 @@
+int main()
+{
+    // comment
+    int a=10,b=20,c;
+	
+    char ch;
+    float f;
+    c=a+b;
+}
